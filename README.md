@@ -9,7 +9,6 @@ El ejercicio se centra en la **enumeración de vulnerabilidades web, análisis d
 - **Gobuster / Dirsearch**: enumeración de directorios.
 - **Wfuzz / FFUF**: fuzzing de parámetros.
 - **WhatWeb / Wappalyzer**: detección de tecnologías.
-- **Burp Suite**: interceptación y manipulación de tráfico HTTP.
 - **Curl**: análisis manual de peticiones.
 - **sslscan**: análisis de configuración SSL/TLS, mostrando versiones soportadas, cifrados y detalles del certificado.
 - **amass**: enumeración de subdominios y activos de red para mapear dominios e infraestructura.
